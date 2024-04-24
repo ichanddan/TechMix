@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.main{
+  background-image:url(./assets//hero/hero-3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+  
+}
+.main-2{
+  position:absolute;
+  top: 415px;
+  left: 0px;
+}
